@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"group","id":"b27b209a2e4e0ded","x":-1080,"y":-960,"width":1160,"height":1820,"label":"SQLi - Funds"},
+		{"type":"text","text":"Vuln that consists of an attacker inerfering with the SQL queries that an application makes to a DB ","id":"f55656e1c9fd93ee","x":-655,"y":-940,"width":600,"height":70},
+		{"type":"link","url":"https://portswigger.net/web-security/sql-injection","id":"8346374681a6f6a9","x":-1060,"y":-905,"width":315,"height":745},
+		{"type":"text","text":"SQLi","id":"b308d4a9007a072c","x":-387,"y":-480,"width":100,"height":50},
+		{"type":"text","text":"Time\n","id":"0b64cf57d05699a2","x":-244,"y":320,"width":105,"height":50},
+		{"type":"text","text":"Error","id":"eef1fb3c6ed9161b","x":-667,"y":320,"width":105,"height":50},
+		{"type":"text","text":"Union","id":"02707d990cc8b47a","x":-537,"y":320,"width":105,"height":50},
+		{"type":"text","text":"Boolean","id":"6d46da9075823a76","x":-394,"y":320,"width":132,"height":50},
+		{"type":"text","text":"### Inferential (Blind)","id":"fd3cb00710a1eeca","x":-432,"y":-340,"width":241,"height":460},
+		{"type":"text","text":"Out-of-Band","id":"8f84f1669583ff47","x":-191,"y":-340,"width":160,"height":460},
+		{"type":"text","text":"### In-Band (Classic)\n- where the attacker uses the same communication channel to both launch the attack and gather the result \n- retrieved data is presented directly in the application \n- Easier that other categories ","id":"b9cffb20b524aa1f","x":-682,"y":-340,"width":250,"height":460},
+		{"type":"text","text":"### impact of SQLi  \n**Mainly depends on the case it self **\n- Confidentiality -> high \n- Integrity -> high \n- Availability -> high \n---\nmay lead to RCE ","id":"515a457c793aa59f","x":-655,"y":-680,"width":400,"height":160},
+		{"type":"text","text":"OWASP 2021 -> A3","id":"21627d04093f4d0c","x":-180,"y":-680,"width":250,"height":60},
+		{"type":"file","file":"Attachments/Pasted image 20230810101106.png","id":"0c8c1d2f19a7157b","x":-535,"y":-840,"width":399,"height":130}
+	],
+	"edges":[
+		{"id":"07947c986208d720","fromNode":"f55656e1c9fd93ee","fromSide":"left","toNode":"0c8c1d2f19a7157b","toSide":"left"},
+		{"id":"9f267bf0ece26d5d","fromNode":"b308d4a9007a072c","fromSide":"bottom","toNode":"fd3cb00710a1eeca","toSide":"top"},
+		{"id":"ad676562afa49c51","fromNode":"b308d4a9007a072c","fromSide":"bottom","toNode":"8f84f1669583ff47","toSide":"top"},
+		{"id":"5382555d0e613dd6","fromNode":"fd3cb00710a1eeca","fromSide":"top","toNode":"6d46da9075823a76","toSide":"top"},
+		{"id":"071c0e62603fb3c3","fromNode":"fd3cb00710a1eeca","fromSide":"bottom","toNode":"0b64cf57d05699a2","toSide":"top"},
+		{"id":"e4dc815b4f051d67","fromNode":"b308d4a9007a072c","fromSide":"bottom","toNode":"b9cffb20b524aa1f","toSide":"top"}
+	]
+}

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "3b153f5a92a3b7c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ac9c43a6f0cffd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd9c80cec36a2b8d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ServerSide/SQLI/SQLI.canvas",
+                "viewState": {
+                  "x": -442.77091807062277,
+                  "y": -207.54294139432736,
+                  "zoom": -0.6506260730699679
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee88f8f5813f1382",
+    "type": "split",
+    "children": [
+      {
+        "id": "e873ef9bbb311cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda0a5f8e852e464",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ca2468730756003",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f02916df080f7b1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a1af369b5f53b131",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c49d8cfd8c4f313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0ebc0564576aec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ServerSide/SQLI/SQLI.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cbf843f35d660af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ServerSide/SQLI/SQLI.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94d77abdd9c4e217",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37124abdbe6ca405",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ServerSide/SQLI/SQLI.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cda0a5f8e852e464",
+  "lastOpenFiles": [
+    "Web-Security-Academy-Series/xxe-injection/theory/XXE Injection Complete Guide Theory Video Slides.pdf",
+    "Web-Security-Academy-Series/xxe-injection/lab-09/xxe-injection-lab-09.py",
+    "Web-Security-Academy-Series/xxe-injection/lab-09/notes.txt",
+    "Web-Security-Academy-Series/xxe-injection/lab-08/xxe-injection-lab-08.py",
+    "Web-Security-Academy-Series/xxe-injection/lab-08/test.svg",
+    "Web-Security-Academy-Series/xxe-injection/lab-08/notes.txt",
+    "Web-Security-Academy-Series/xxe-injection/lab-07/xxe-injection-lab-07.py",
+    "Web-Security-Academy-Series/xxe-injection/lab-07/notes.txt",
+    "Web-Security-Academy-Series/xxe-injection/lab-06/notes.txt",
+    "Web-Security-Academy-Series/xxe-injection/lab-05/notes.txt",
+    "Web-Security-Academy-Series/xxe-injection/lab-04/notes.txt",
+    "Web-Security-Academy-Series/xxe-injection/lab-02/xxe-injection-lab-02.py",
+    "Web-Security-Academy-Series/README.md",
+    "ServerSide/SQLI/Complete guide/Error-Based SQLi.md",
+    "ServerSide/SQLI/SQLI.canvas",
+    "ServerSide/SQLI/Complete guide/Inferential (Blind) SQLi.md",
+    "ServerSide/SQLI/Complete guide/Union-Based SQLi.md",
+    "ServerSide/SQLI/Complete guide/In-Band (Classic).md",
+    "Untitled.canvas",
+    "Attachments/Pasted image 20230810111112.png",
+    "Attachments/Pasted image 20230810101106.png"
+  ]
+}
